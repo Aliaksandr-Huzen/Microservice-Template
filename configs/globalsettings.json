@@ -1,0 +1,10 @@
+﻿{
+  "Swagger": {
+    "Path": "/swagger/v1/swagger.json"
+  },
+  "Token": {
+    "Key": "#{Key}",
+    "Issuer": "#{Issuer}",
+    "Audience": "#{Audience}"
+  }
+}
